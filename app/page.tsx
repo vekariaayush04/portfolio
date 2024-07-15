@@ -33,7 +33,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">About Me</h2>
           <p className="text-lg opacity-80 mb-8">
-            Hi, I'm Ayush Vekaria. I am a passionate full stack developer with expertise in React, Node.js, and MongoDB.
+          Hi, I&apos;m Ayush Vekaria. I am a passionate full stack developer with expertise in React, Node.js, and MongoDB.
           </p>
         </div>
       </section>
@@ -68,7 +68,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto">
           <h2 className="text-3xl md:text-4xl font-bold mb-8">Contact Me</h2>
           <p className="text-lg opacity-80 mb-8">
-            Let's work together! You can reach me at ayush@example.com
+          Let&apos;s work together! You can reach me at ayush@example.com
           </p>
           {/* Add a contact form or additional contact information here */}
         </div>
